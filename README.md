@@ -631,5 +631,5 @@ COST
 
 ---
 
-> **Maintained by:** Abdelurahman  
+> **Maintained by:** Eng. Abdelurahman Atef Elsayed  
 > **Focus:** AI/ML Engineering · NLP · RAG Systems  
